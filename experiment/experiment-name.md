@@ -1,1 +1,1 @@
-## Experiment name
+## Hypothesis testing: Comparing two populations (Variances known)
